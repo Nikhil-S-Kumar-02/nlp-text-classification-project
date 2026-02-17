@@ -1,7 +1,6 @@
 # NLP Text Classification Project
 
-This repository contains two NLP projects built as part of a Data Science course:
-
+This repository contains two NLP projects built for educational and demonstrative purposes.
 1. **IMDb Sentiment Analysis (Part A)**  
    A binary classification task to predict whether a movie review is Positive or Negative.
 
@@ -66,4 +65,4 @@ nlp-text-classification-project/
 
 ---
 
-> This project was done as part of a Data Science course assignment for educational and demonstrative purposes.
+> This project was done for educational and demonstrative purposes.
